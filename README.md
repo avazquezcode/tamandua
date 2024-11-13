@@ -1,6 +1,6 @@
 # Tamandua
 
-- Tamandua is a small, fast and elegant programming language
+- Tamandua is a small, efficient and elegant programming language
 
 > [!NOTE]  
 > Currently writing its compiler in my spare time :)
