@@ -1,11 +1,11 @@
 # Tamandua
 
-- Tamandua is a small, efficient and elegant programming language
+Tamandua is a small, efficient and elegant programming language
 
 > [!NOTE]  
 > Currently writing its compiler in my spare time :)
 
-- The name, comes from a very unique animal from South America
+The name, comes from a very unique animal from South America, the Tamandua...
 
 <p align="center">
 <img style="align:center" src="https://github.com/user-attachments/assets/7d9565f6-0982-49b5-8bee-e380ce11c1b6" width=30% height=30%>
