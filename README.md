@@ -3,7 +3,7 @@
 Tamandua is a small programming language.
 
 > [!NOTE]  
-> Currently writing its compiler in my spare time :)
+> Currently writing the bytecode compiler and VM (in C language) in my spare time :)
 
 The name, comes from a very unique animal from South America, the Tamandua...
 
